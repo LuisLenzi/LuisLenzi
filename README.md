@@ -1,7 +1,7 @@
 Hi 👋 My name is Luís Lenzi
 ===========================
 
-Designer and Software Developer
+Software Developer
 -------------------------------
 
 I am fascinated by how everything works, I like to understand how the world behaves. With this curiosity, I discovered that Technology can help me to reach new horizons and gain new knowledge from an early age in the area. Currently I work as a junior developer at the company NEX Energy.
