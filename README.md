@@ -1,4 +1,4 @@
-Hi 👋 My name is Luís Lenzi
+Luís Lenzi
 ===========================
 
 Software Developer
@@ -8,11 +8,11 @@ I am fascinated by how everything works, I like to understand how the world beha
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Portifolio](http://www.luislenzi.dev)
-* ✉️  You can contact me at [luis.gclenzi@gmail.com](mailto:luis.gclenzi@gmail.com)
 * 🚀  I'm currently working on [NEX Energy](http://www.nexenergy.com.br)
+* ⚡  I like to play some games every now and then.
+* ✉️  You can contact me at [luis.gclenzi@gmail.com](mailto:luis.gclenzi@gmail.com)
 * 🧠  I'm learning Elixir, GraphQL, Python, AWS, React Native
 * 🤝  I'm open to collaborating on Interesting Projects (On free time)
-* ⚡  I like to play some games every now and then.
 
 <a href="https://www.github.com/LuisLenzi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LuisLenzi?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
