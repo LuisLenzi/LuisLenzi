@@ -6,10 +6,9 @@ Software Developer
 
 I am fascinated by how everything works, I like to understand how the world behaves. With this curiosity, I discovered that Technology can help me to reach new horizons and gain new knowledge from an early age in the area.
 
-* 🌍  I'm based in Brazil
+* 🌍  I live in Brazil
 * 🖥️  See my portfolio at [Portifolio](http://www.luislenzi.dev)
 * ⚡  I like to play some games every now and then.
-* ✉️  You can contact me at [luis.gclenzi@gmail.com](mailto:luis.gclenzi@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects (On free time)
 
 <a href="https://www.github.com/LuisLenzi" target="_blank" rel="noreferrer"><img
